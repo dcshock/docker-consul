@@ -1,4 +1,4 @@
-FROM 		ubuntu:latest
+FROM 		ubuntu:13.04
 MAINTAINER 	matt conroy <matt@conroy.cc>
 
 RUN apt-get update -y
